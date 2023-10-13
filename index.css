@@ -1,0 +1,101 @@
+* {
+    margin: 0%;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+#nav-img {
+    height: 80px;
+}
+
+
+#navbarText {
+    font-size: medium;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: red;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.active {
+    color: rgb(255, 0, 0) !important;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+/* -------------navbar ended----------- */
+.uj {
+    height: 4.375rem;
+    width: 21.25rem;
+    background-color: rgb(0, 87, 174);
+    margin: auto;
+}
+
+.uj p {
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: x-large;
+    padding-top: 17px;
+}
+
+.card {
+    background-color: antiquewhite;
+}
+
+
+.button{
+    height: 50px;
+    width: 180px;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    margin: auto;
+    text-align: center;
+    font-weight: normal;
+    font-size: large;
+    padding-top: 10px;
+
+}
+.button a{
+    color: white;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: white;
+    background-color: rgb(0, 87, 174);
+    
+}
+
+
+
+
+
+
+
+.foot{
+    background-color: rgb(255, 241, 226);
+    justify-content: center;
+    height: 150px;
+    width: auto;
+   
+}
+.foot a{
+    padding-left: 20px;
+}
+.foot ul{
+    text-align: center;
+    padding-top: 40px;
+    margin-left: -55px;
+}
+.foot p{
+    text-align: center;
+    margin-bottom: 2rem;
+}
